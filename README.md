@@ -1,13 +1,49 @@
-Hi there! 👋 I'm Rajdeep Sarker
-🎓 Student | 🚀 Aspiring Programmer
-📚 SSC Candidate (Exam on April 10, 2025)
+# 👋 Hi, I’m Rajdeep Sarker
 
-💻 Passionate about Programming & Problem-Solving
+🎓 HSC Science Student from Bangladesh  
+🌱 Future AI/ML Engineer  
+💡 Curious about Programming, Technology & Artificial Intelligence  
 
-🐍 Currently learning Python
+---
 
-🔍 Interested in AI/ML (Not learning yet)
+## 🌐 Portfolio
+🔗 https://rajdeep.engineer  
 
-🌱 Exploring different coding concepts
+This portfolio reflects my learning journey, interests, and future goals in technology.
 
-📧 Reach me at sarkerrajdeep8@gmail.com
+---
+
+## 🚀 About Me
+My name is **Rajdeep Sarker**.  
+I am an HSC science student from Bangladesh who aspires to become an **AI/ML Engineer**.
+
+Currently, I am focused on building a strong foundation in programming and computer science while gradually exploring the world of **Artificial Intelligence and Machine Learning**.
+
+I believe in consistent learning, curiosity, and growing step by step.
+
+---
+
+## 🌱 Learning & Interests
+- Programming fundamentals (learning phase)  
+- Python (beginner)  
+- Web Development basics  
+- Artificial Intelligence & Machine Learning (exploring)  
+- Problem solving and logical thinking  
+
+---
+
+## 🎯 Current Goals
+- Strengthen core programming concepts  
+- Learn Python properly  
+- Build small practice projects  
+- Prepare myself for future AI/ML studies  
+
+---
+
+## 📫 Connect With Me
+🌐 Portfolio: https://rajdeep.engineer  
+💼 LinkedIn: https://www.linkedin.com/in/rajdeepsarker  
+
+---
+
+✨ Learning today to build tomorrow.
