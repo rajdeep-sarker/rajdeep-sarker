@@ -23,6 +23,25 @@ I believe in consistent learning, curiosity, and growing step by step.
 
 ---
 
+## 🎓 Education
+
+### Higher Secondary Certificate (HSC)
+- Stream: Science
+- Institution: Ananda Mohan College, Mymensingh
+- Board: Board of Intermediate & Secondary Education, Mymensingh
+- Status: Ongoing
+
+---
+
+### Secondary School Certificate (SSC)
+- Group: Science
+- Institution: Anjuman Adarsha Govt. High School, Netrokona
+- Board: Board of Intermediate & Secondary Education, Mymensingh
+- Year: 2025
+- GPA: 5.00 (out of 5.00)
+
+---
+
 ## 🌱 Learning & Interests
 - Programming fundamentals (learning phase)  
 - Python (beginner)  
