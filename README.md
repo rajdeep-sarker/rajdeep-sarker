@@ -7,7 +7,7 @@
 ---
 
 ## 🌐 Portfolio
-🔗 https://rajdeep.engineer  
+🔗 https://rajdeep.codes/  
 
 This portfolio reflects my learning journey, interests, and future goals in technology.
 
@@ -60,7 +60,7 @@ I believe in consistent learning, curiosity, and growing step by step.
 ---
 
 ## 📫 Connect With Me
-🌐 Portfolio: https://rajdeep.engineer  
+🌐 Portfolio: https://rajdeep.codes/  
 💼 LinkedIn: https://www.linkedin.com/in/rajdeepsarker  
 
 ---
